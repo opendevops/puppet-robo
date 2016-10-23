@@ -1,5 +1,10 @@
 # robo
 
+example:
+```
+::robo{ 'robo': target_dir => '/usr/local/bin', force_update => false }
+```
+
 #### Table of Contents
 
 1. [Overview](#overview)
